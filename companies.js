@@ -298,6 +298,9 @@ const companies = [
   { name: 'Qualcomm', type: 'html', careersUrl: 'https://www.qualcomm.com/careers' },
   { name: 'Syqe Medical', type: 'html', careersUrl: 'https://www.syqe.com/careers' },
   { name: 'VMWARE', type: 'html', careersUrl: 'https://www.vmware.com/careers' },
+  // ── Auto-discovered ──
+  { name: 'AI-BI', type: 'html', careersUrl: 'https://www.ai-bi.co.il/careers' },
+  { name: 'apiiro', type: 'html', careersUrl: 'https://apiiro.com/careers' },
 ]
 
 export default companies
